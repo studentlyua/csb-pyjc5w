@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://studentlyua.github.io/csb-pyjc5w/static/css/main.421cdee7.chunk.css",
+    "main.js": "https://studentlyua.github.io/csb-pyjc5w/static/js/main.d06a06d4.chunk.js",
+    "main.js.map": "https://studentlyua.github.io/csb-pyjc5w/static/js/main.d06a06d4.chunk.js.map",
+    "runtime-main.js": "https://studentlyua.github.io/csb-pyjc5w/static/js/runtime-main.135afc70.js",
+    "runtime-main.js.map": "https://studentlyua.github.io/csb-pyjc5w/static/js/runtime-main.135afc70.js.map",
+    "static/js/2.c7519c48.chunk.js": "https://studentlyua.github.io/csb-pyjc5w/static/js/2.c7519c48.chunk.js",
+    "static/js/2.c7519c48.chunk.js.map": "https://studentlyua.github.io/csb-pyjc5w/static/js/2.c7519c48.chunk.js.map",
+    "index.html": "https://studentlyua.github.io/csb-pyjc5w/index.html",
+    "static/css/main.421cdee7.chunk.css.map": "https://studentlyua.github.io/csb-pyjc5w/static/css/main.421cdee7.chunk.css.map",
+    "static/js/2.c7519c48.chunk.js.LICENSE.txt": "https://studentlyua.github.io/csb-pyjc5w/static/js/2.c7519c48.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "https://studentlyua.github.io/csb-pyjc5w/static/media/actaywide-bold.caa5b9cf.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.135afc70.js",
+    "static/js/2.c7519c48.chunk.js",
+    "static/css/main.421cdee7.chunk.css",
+    "static/js/main.d06a06d4.chunk.js"
+  ]
+}
